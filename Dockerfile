@@ -30,6 +30,7 @@ RUN apt-get -y update && apt-get -y install \
 	make \
 	rsync \
 	scons \
+	squashfs-tools \
 	sshpass \
 	tree \
 	u-boot-tools \
